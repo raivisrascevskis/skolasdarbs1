@@ -33,3 +33,6 @@ for customer in customers:
     if customer == name:
         print(customers[customer])
         break
+        
+        raimonds ir gays
+        
